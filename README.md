@@ -1,6 +1,6 @@
 # Cool Login Form in JS.
 
-[screenshot](screenshot.jpg)
+(screenshot.jpg)
 
 
 
