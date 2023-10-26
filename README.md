@@ -1,8 +1,5 @@
 # Cool Login Form in JS.
 
-screenshot.jpg
 
-
-
-https://github.com/Marshalleye/loginFormJS/assets/64838176/2ff1abb7-9658-4e04-81e0-b9bf8bef29a1
+https://github.com/Marshalleye/loginFormJS/assets/64838176/e53c70bf-9cd1-4369-8a62-640f11132f71
 
